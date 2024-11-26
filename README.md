@@ -22,6 +22,4 @@ The ATM class contains:
 ### Made by:
 Siddhant Sharma
 
----
 
-Feel free to clone and modify this project to suit your needs!
